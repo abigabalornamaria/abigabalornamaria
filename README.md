@@ -1,16 +1,24 @@
-### Hi there 👋
+##RENU IT PROGRAM 2023
 
-<!--
-**abigabalornamaria/abigabalornamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WEEK ONE.
+DAY ONE.
+ORIENTATION.
+I were taken through the history of RENU ,RENU'secosystem and operation.
 
-Here are some ideas to get you started:
+DAY TWO.
+I learnt installation of differnt softwares like virtual box ,docker ,vm ware ,and installed 
+debian 12  and windows server 2019 on the virtual machines .
+i learnt installation of version controller systems like git ,git bash
+           |RENU IT PROGRAM|
+---------------------------------------------------------------------------------
+           |WEEK 1       |         WEEK 2  |     WEEK 3   |        WEEK 4   |
+-------------------------------------------- --------------------------------------
+DAY ONE    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DAY TWO    |
+
+DAY THREE  |
+
+DAY FOUR   |  
+
+DAY FIVE   | 
