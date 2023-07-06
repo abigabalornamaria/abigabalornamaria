@@ -24,4 +24,9 @@ DAYTWO.
 I learnt about virtualization and containerisation.
 i installed VNC and used it to login to a virtual machine for linux.
 
+DAY THREE.
+I acquired more knowledge and skills about logging in and installation of virtual machines for both linux and windows ,installed docker and pihole on thye linus vm ,installed active directory putting into consideration the requirements in every stage.
+
+
+
            
