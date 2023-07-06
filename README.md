@@ -21,12 +21,16 @@ I learnt about the different operating systems like windows, linux ,BSD ,the his
 i learnt about different version control systems and how they work.
 
 DAYTWO.
-I learnt about virtualization and containerisation.
+I learnt about virtualization the different architectures of virtualisation(hosted and bare metal) ,types of virtualization and its benefits  plus the different servers that are used and containerisation (different texamples of containers)
+differences bweteen virtualisation and containerisation plus the different scenarios where each can be used.
 i installed VNC and used it to login to a virtual machine for linux.
 
 DAY THREE.
 I acquired more knowledge and skills about logging in and installation of virtual machines for both linux and windows ,installed docker and pihole on thye linus vm ,installed active directory putting into consideration the requirements in every stage.
 
+DAY FOUR.
+I continued with analysing the installation of the different virtual machines for both windows and linux .
+i researched on the different ways through which we can automate installation of softwares which include using preseed files for debian ,kickstart files for Red hat based installations and scripts  with installation instructions.
 
 
            
