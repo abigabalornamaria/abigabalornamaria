@@ -57,4 +57,12 @@ Team two is to Perform a blackbox penetration test on the web application create
 
 i signed up an account for tryhackme that will assist me with the information of cyber security and my collegues to perform a penetration test .
 
+WEEK THREE.
+
+DAY ONE.
+
+I got more insights about the OSI MODEL ,the different layers ,functions of each layer ,the different devices on the different layers plus different protocals on each layer.
+I installed cisco packet tracer and was able to understand the basics of using it for configurations.
+
+DAY TWO.
            
