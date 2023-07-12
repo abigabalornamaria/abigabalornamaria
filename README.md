@@ -65,4 +65,15 @@ I got more insights about the OSI MODEL ,the different layers ,functions of each
 I installed cisco packet tracer and was able to understand the basics of using it for configurations.
 
 DAY TWO.
+
+I learnt about layer two of the OSI model which is the data link layer ,in details, its devices thata the layer two switch and the hub ,layer two switching and layer three switching .
+i learnt about MAC addresses the types of mac addresses ie the unicast, multicast and broadcast MAC addresses.
+i got to know the difference between layer 3 switches and layer 2 switches.
+i learnt about the tree spanning protocal
+
+DAY THREE.
+
+I learnt about VLANS(virtual local area network),the different types ie static vlan that is based on ports ,dynamic vlans that is based MAC addresses ,ip based vlans  and protocal based vlans.
+I learnt about frame tagging ,vlan trunking protocal ,access links and trunk links .
+I learnt about broadcast domains and collision domains plus the different ways of how routers and vlans are applied to break broadcast domains.
            
