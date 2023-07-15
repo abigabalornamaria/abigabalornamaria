@@ -76,4 +76,14 @@ DAY THREE.
 I learnt about VLANS(virtual local area network),the different types ie static vlan that is based on ports ,dynamic vlans that is based MAC addresses ,ip based vlans  and protocal based vlans.
 I learnt about frame tagging ,vlan trunking protocal ,access links and trunk links .
 I learnt about broadcast domains and collision domains plus the different ways of how routers and vlans are applied to break broadcast domains.
+I learnt about  untagged and tagged frames plus where they are all used  ,interVLAN routing and other routing protocals.
+
+DAY FOUR:
+
+I learnt about the TCP/IP and DOD model ,its different protocals and why it was  established besides the OSI model ,ip addressing(ipv4 and ipv6),ipv4 (private and public addresses)types of ipv4 (unicast(ie loopback ,link local ,unique link local ) ,multicast ,broadcast) and types of ipv6(unicast ,multicast) ,subnetting and ip address planning ,network address translation ,stateful ipv6 addressing and stateless ipv6 address auto configuration , OSFP ,BGP ,EGP AND IGP and their functions.
+
+
+DAY FIVE:
+
+I attended the meeting of the technical derpartment (networks ,network operations center ,systems ,and software department) where these different departments presented the different reports from the different departments where i got to learn more about different services it offers like LORA WAN ,WEB HOSTING ,WEB CONFERENCING ,DOMAIN NAME REGISTRATION ,SSL CERTIFICATES ,LEARNING MANAGEMENT SYSTEMS ,COLOCATION DATA CENTERS AND MORE.
            
