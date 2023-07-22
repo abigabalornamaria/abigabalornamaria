@@ -88,7 +88,7 @@ DAY FIVE:
 I attended the meeting of the technical derpartment (networks ,network operations center ,systems ,and software department) where these different departments presented the different reports from the different departments where i got to learn more about different services it offers like LORA WAN ,WEB HOSTING ,WEB CONFERENCING ,DOMAIN NAME REGISTRATION ,SSL CERTIFICATES ,LEARNING MANAGEMENT SYSTEMS ,COLOCATION DATA CENTERS AND MORE.
 
 
-WEEK THREE.
+WEEK FOUR.
 
 DAY ONE.
 
