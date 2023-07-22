@@ -86,4 +86,32 @@ I learnt about the TCP/IP and DOD model ,its different protocals and why it was 
 DAY FIVE:
 
 I attended the meeting of the technical derpartment (networks ,network operations center ,systems ,and software department) where these different departments presented the different reports from the different departments where i got to learn more about different services it offers like LORA WAN ,WEB HOSTING ,WEB CONFERENCING ,DOMAIN NAME REGISTRATION ,SSL CERTIFICATES ,LEARNING MANAGEMENT SYSTEMS ,COLOCATION DATA CENTERS AND MORE.
+
+
+WEEK THREE.
+
+DAY ONE.
+
+I learnt about routing (on layer 3/network layer) ant routers as layer 3 devices ,routing and forwarding tables,routing protocals and routed protcols (OSPFB,BGP ,ISIS ,RIP ,CLNS ,IPV4 ,IPV6).
+I set up static routes ,default routes and dynamic routes(using OSPF AND ISIS).
+I installed GNS3 and used it for the different routing configurations, and i learnt how to use the different command instructions for GNS3.
+
+DAY TWO.
+
+i learnt how to assign OSPF areas and ISIS levels together with static routes and analysing routing tables and forwading tables and configuring VLANS and get more insights on OSPF and ISIS for the different devices like routers ,switches and end devices .
+
+DAY THREE.
+
+i made a progress on the project of a web applications that lists blocked ip addresses and doing a penetration test on it,find out all vulnerabilities in linux systems and others.
+We visited MU-HJU data center and learnt the different devices in the data center.
+
+DAY FOUR.
+
+Our team disassembled and assembled a dell laptop and learnt about the different parts of the laptop.
+I learnt about wireless communications   including line of sight ,ISM band (industrial ,scientific and medical ) band where also WIFI lies and its different 14 channels and how they are configured on access points .
+
+DAY FIVE.
+
+We had a town hall meeting where all the departments presented their reports for the last quarter from APRIL TO JUNE ,hosted the Execuctive Director of UCC and she wlked us through her journey on how she became the ED of UCC.
+We later had a happy hour where we celebrated RENU having reached 501 connected sites.
            
