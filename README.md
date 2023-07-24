@@ -114,4 +114,11 @@ DAY FIVE.
 
 We had a town hall meeting where all the departments presented their reports for the last quarter from APRIL TO JUNE ,hosted the Execuctive Director of UCC and she wlked us through her journey on how she became the ED of UCC.
 We later had a happy hour where we celebrated RENU having reached 501 connected sites.
+
+WEEK FIVE.
+
+DAYONE.
+
+i learnt how to interact with the linux virtual machine ,accessing it with ssh in command prompt ,navigation of the file system using different text editors like nano ,vi ,vim ,notepad ,and gedit.
+ I learnt file manipulations ,file permissions and installed apache and an ssl certificate.
            
