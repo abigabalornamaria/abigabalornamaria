@@ -121,4 +121,14 @@ DAYONE.
 
 i learnt how to interact with the linux virtual machine ,accessing it with ssh in command prompt ,navigation of the file system using different text editors like nano ,vi ,vim ,notepad ,and gedit.
  I learnt file manipulations ,file permissions and installed apache and an ssl certificate.
+
+
+DAY TWO
+
+I got more insights on how to interact with linux virtual machine and i was able to use commands like (mkdir ,base64 /dev /urandom |head -c 100 > filename ,screen -ls -r ,-i , find ,locate ,rep ,awk ,tee ,copying ,pasting and using different text editors ,touch ,cd ,and many others.)
+we learnt how to install several softwares at the same time using screen and running different operations on the screens in linux.
+we were introduced to ansible play books and bash.
+I installed visual studio code ,python and its packages and dependencies and django to help me learn more about django web based applications in preparations to do the penetration test on ip monitooring tool developed by the other tea members.
+
+
            
