@@ -131,4 +131,16 @@ we were introduced to ansible play books and bash.
 I installed visual studio code ,python and its packages and dependencies and django to help me learn more about django web based applications in preparations to do the penetration test on ip monitooring tool developed by the other tea members.
 
 
+DAY THREE.
+
+I installed ansible in my linux virtual machine ,used it to create ansibble playbook ,created directories ,and created files ,edited the files using text editors ,nano and vim .
+i used ansible to post scripts to a collegues servers by logging into them using ssh,ensuring reachability through pinging each others servers.
+I created bash scripts that create a multiple files in linux vm at the same time .
+
+i used visual studio code ,git bash ,virtual environments and run codes of a web application in them.
+we managed to analyse the part of the code and found some vulnerabilities.
+we set out one of our team members server ,installed ngnix ,firewalls and closed most of the ports to be secure for deployment of the data bases of the web application of ip-monitoring tool of RENU ip addresses.
+
+
+
            
