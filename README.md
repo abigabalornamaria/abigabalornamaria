@@ -142,5 +142,14 @@ we managed to analyse the part of the code and found some vulnerabilities.
 we set out one of our team members server ,installed ngnix ,firewalls and closed most of the ports to be secure for deployment of the data bases of the web application of ip-monitoring tool of RENU ip addresses.
 
 
+DAY FOUR:
+
+As team member of team two which is the penetraion test team ,we presented an update about our progress on finding vulnerabilities and ensuring a secure web application ,their databases and code.
+As  team two ,we divided tasks amongest ourselves and where some did hard coding on te linux server where the database of the web application will be deployed ,we installed nginix ,firewalls ,intrution dtection system /intrution protection system  and others.
+on the part of static code analysis ,we managed to get vulnerabilities like no complexity in passwords ,no session time out ,no django rate limit ,and others ,we then advised team one accordingly and they worked on trem.
+
+Today ,i embarked on my journey of doing my cisco networking certifications and i did some quizzes about networking .
+
+
 
            
