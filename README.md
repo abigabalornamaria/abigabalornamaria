@@ -148,7 +148,19 @@ As team member of team two which is the penetraion test team ,we presented an up
 As  team two ,we divided tasks amongest ourselves and where some did hard coding on te linux server where the database of the web application will be deployed ,we installed nginix ,firewalls ,intrution dtection system /intrution protection system  and others.
 on the part of static code analysis ,we managed to get vulnerabilities like no complexity in passwords ,no session time out ,no django rate limit ,and others ,we then advised team one accordingly and they worked on trem.
 
-Today ,i embarked on my journey of doing my cisco networking certifications and i did some quizzes about networking .
+Today ,i embarked on my journey of doing my cisco networking certifications and i did some quizzes about networking.
+
+
+DAY FIVE:
+
+We had a review session about a cisco packet tracer assignment with a topology having six networks ,three routers ,three switches and six laptops.
+this toplogy includes three departments namely ,networks with  25 hosts, systems with 50 hosts and finance with 10 hosts and six interfaces ,(two hosts each).
+we configured all the devices to have hostnames ,the interfaces where given descriptions ,and on the router and switch we set line console passwords ,vty passwords ,enable passwords ,encrpted the passwords ,ensured reachability by pinging the devices to each other .
+we were given an 1pv4 address space and did subnetting for the 6 networks.
+
+we had a group person accident (GPA) session where we were taught about insurance about accidents (death ,injuries ,either permanent or temporary) .this covers employees and the employer , and the family members of the employee (but the one included in the employees contract).
+
+we worked our penetration team progress report including activities for three weeks(intelligence gathering through research of the vulnerabilities,securing the linux server where the database of the web app will be deployed and the static code analysis that we did.
 
 
 
