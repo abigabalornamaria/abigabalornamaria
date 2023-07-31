@@ -163,5 +163,21 @@ we had a group person accident (GPA) session where we were taught about insuranc
 we worked our penetration team progress report including activities for three weeks(intelligence gathering through research of the vulnerabilities,securing the linux server where the database of the web app will be deployed and the static code analysis that we did.
 
 
+WEEK SIX.
+
+
+DAY ONE.
+We had a session where we learnt about the different network monitoring tools(availability ,performance and reliability)(uptime and down time). THe tools include nagios which uses ICMP, and cacti which uses SNMP(graphs and utilisation) ,libre NMS WHICH USES SNMP and observinum(health and inventory(memory ,processors, temperature,power)) .THese work in conjuction with other tools ,some use plugins and each tool uses different parameters and features.
+
+1.https://www.google.com/search?q=free+network+monitoring+tools&sxsrf=AB5stBiDB6yyyfFVyGsViHo5xkFwC97Ckg%3A1690807366565&ei=RqzHZIWNIrTtkdUPwbmc-Aw&ved=0ahUKEwiFyN6j_LiAAxW0dqQEHcEcB88Q4dUDCA8&uact=5&oq=free+network+monitoring+tools&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWZyZWUgbmV0d29yayBtb25pdG9yaW5nIHRvb2xzMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhfree network monitoring tools - Google Searchhttps://www.google.com librenms.pdf
+
+
+2.https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/quickstart.html
+
+
+
+
+
+
 
            
