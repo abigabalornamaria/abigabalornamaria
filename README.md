@@ -167,12 +167,34 @@ WEEK SIX.
 
 
 DAY ONE.
+
 We had a session where we learnt about the different network monitoring tools(availability ,performance and reliability)(uptime and down time). THe tools include nagios which uses ICMP, and cacti which uses SNMP(graphs and utilisation) ,libre NMS WHICH USES SNMP and observinum(health and inventory(memory ,processors, temperature,power)) .THese work in conjuction with other tools ,some use plugins and each tool uses different parameters and features.
+
+
+references.
+
 
 1.https://www.google.com/search?q=free+network+monitoring+tools&sxsrf=AB5stBiDB6yyyfFVyGsViHo5xkFwC97Ckg%3A1690807366565&ei=RqzHZIWNIrTtkdUPwbmc-Aw&ved=0ahUKEwiFyN6j_LiAAxW0dqQEHcEcB88Q4dUDCA8&uact=5&oq=free+network+monitoring+tools&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWZyZWUgbmV0d29yayBtb25pdG9yaW5nIHRvb2xzMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhfree network monitoring tools - Google Searchhttps://www.google.com librenms.pdf
 
 
 2.https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/quickstart.html
+
+
+DAY TWO:
+
+
+we had a session with the Network Operations Center where we were taught about email etiquettes where we were taught about the different parts of emails and we were guided on how to go about each one of them forexample(subject line ,greetings ,closings,and the body),the tone to use while paraphrasing the body.
+reference:https://www.mcgill.ca/onboardingcentral/files/onboardingcentral/student_email_etiquette_tips.pdf
+
+we were taught about Natwork management $ monitoring ,which had ticketing systems with RT (request tracker)ref:http://osticket.com/,and http://www.troubleticketexpress.com/open-source-software.html .
+ticketing  systems keep track of all system and network activities ,events ,failures and issues where they perform tasks like opening trouble tickets, closing trouble tickets and also there is one called resolved ticket if at all the issue was fixed.
+
+we were taught about more tools used in the network operations center forexample NFSEN , this is a a graphical (Web Based) front end to Nfdump which  collect netflow data and store them in files and Creates RRD graphs based on stored data.
+ref:https://nfsen.sourceforge.net/#mozTocId764303
+
+other tools are NTOP and ELKSTACK which has ALASTFLOW .
+
+
 
 
 
