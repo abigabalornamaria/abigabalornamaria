@@ -195,6 +195,13 @@ ref:https://nfsen.sourceforge.net/#mozTocId764303
 other tools are NTOP and ELKSTACK which has ALASTFLOW .
 
 
+DAY THREE:
+
+We had a session where we had a handson training on how to configure access point links with a line of sight (vendor (cambium networks ePMP),we also configured a mifi of edurom on the go in two cases one with a simcard(RENU simcards(renumtn.ac.ug)  and the other without simcard.
+we learnt about the different wifi authentication types (open system authentication ,wired equivalent privacy ,wifi protected access ,802.1X (EAP): 802.1X and others)
+we used tools like cacti and lite beam5AC .
+
+
 
 
 
