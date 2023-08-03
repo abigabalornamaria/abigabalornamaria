@@ -202,6 +202,11 @@ we learnt about the different wifi authentication types (open system authenticat
 we used tools like cacti and lite beam5AC .
 
 
+DAY FOUR:
+
+
+As a big team carrying out a project where part of the team is developing an ip mnitoring tool and the other team is carrying out a penetration test on the web application to make sure its secure.
+we presented updates from both teams and we ranked our progress a figure of 60%.
 
 
 
