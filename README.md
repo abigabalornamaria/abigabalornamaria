@@ -209,6 +209,13 @@ As a big team carrying out a project where part of the team is developing an ip 
 we presented updates from both teams and we ranked our progress a figure of 60%.
 
 
+DAY FIVE:
+
+
+Both teams compiled end of week reports about the progress in our projects.Team 2 was guided on how to improve on its report writing skills in regards to the penetration testing on the web application .
+I learnt more about wireless tecnology ,its comparisons with wired technology ,and i learnt about one of the basic wireless devices which ia access point which has a wireless network interface card and an ethernet port to connect the wireless network to the wired network(distribution system),it also has antennas both for transmission and for reception.
+i learnt about wireless regulations specifically the ISM band (2.4ghz) used for wifi and that it has different channels 14 in number with three non overlapping channels (1 ,6 1nd 11).and these are the ones that are always configured in Access points to avoid frequency interference.
+i also learnt about CSMA/CA.
 
 
 
