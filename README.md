@@ -219,6 +219,19 @@ i also learnt about CSMA/CA.
 
 
 
+WEEK SEVEN.
+
+
+DAY ONE TO DAY FIVE.
+
+
+We learnt about te DNS system (domain name system),we learnt about the use of a dns servers ,the hierrachy ofdns(root ,top level domain ,authoritative and local.),how dns works,how to configure a dns server for a specific domain name.
+we learnt about the different records of a domain name system like A record ,mx record and cnames.
+
+WEEK EIGHT.
+
+
+
 
 
            
